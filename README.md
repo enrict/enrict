@@ -9,6 +9,6 @@ Since I finished university, I started exploring new technologies beyond of what
 - Technologies I'm interested in: TypeScript, Microsoft Azure
 
 ### 🌍 Find me on the web
-- View my <a href='https://enrictrillo.com/'>portfolio ✨
+- View my <a href='https://enrictrillo.com/'>portfolio<a/> ✨
 - Looking to post more <a href="https://medium.com/@enrictrillo">Medium<a/> articles ✍🏾
 - Connect with me on <a href="https://www.linkedin.com/in/enrictrillo/">LinkedIn<a/> 👥
