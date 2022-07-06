@@ -1,11 +1,36 @@
-### 👋 Hey, I'm Enric Trillo!
-I'm a recent bachelors graduate, currently based in London, UK. I enjoy using my knowledge and skills in modern technologies to solve problems and materialise ideas. Some of the technologies I enjoy working with include React and GraphQL.
-Since I finished university, I started exploring new technologies beyond of what we were taught in lectures. I started by learning a bit of VueJs (but I haven't touched it in a while), then I moved on to learning React. After getting comfortable with React, I started exploring the backend side of things by getting more used to Node and Express, and currently GraphQL. I'm enjoying GQL and I've been developing a few projects to get used to doing things all these technologies combined.
-<br>
-- Currently improving my skills in: JavaScript, TailwindCSS, GraphQL and more
-- I'm interested in learning more about: TypeScript, AWS, Microsoft Azure, DevOps
+<h4>Fullstack Web3 Developer + Hacker 👾</h4>
 
-### 🌍 Find me on the web
-- View my <a href='https://enrictrillo.com/'>portfolio<a/> ✨
-- Looking to post more <a href="https://medium.com/@enrictrillo">Medium<a/> articles ✍🏾
-- Connect with me on <a href="https://www.linkedin.com/in/enrictrillo/">LinkedIn<a/> 👥
+<a href="http://www.github.com/0xreeko"><img src="https://github-readme-stats.vercel.app/api?username=0xreeko&show_icons=true&hide=&count_private=true&title_color=655bff&text_color=ffffff&icon_color=655bff&bg_color=0f172a&hide_border=true&show_icons=true" alt="0xeeko's GitHub stats" /></a>
+
+<div>
+<!-- FRONTEND -->
+<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<!-- BACKEND -->
+<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+
+<img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+
+<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+
+<img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+
+<!-- DATABASES + TOOLING -->
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+
+<img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+
+<img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+
+<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+</div>
