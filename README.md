@@ -1,11 +1,6 @@
 Fullstack Web3 Developer + Hacker 👾
 ============================================================================
 
-
-Fullstack Web3 Developer with 3+ years of experience as a Digital Developer. Hacker - I infiltrate smart contract for fun and helping devs develop better.
-
-* 👾 Currently honing my Web3 and security engineering skills.
-
 <a href="http://www.github.com/0xreeko"><img src="https://github-readme-stats.vercel.app/api?username=0xreeko&show_icons=true&hide=&count_private=true&title_color=655bff&text_color=ffffff&icon_color=655bff&bg_color=0f172a&hide_border=true&show_icons=true" alt="0xeeko's GitHub stats" /></a>
 
 <div>
